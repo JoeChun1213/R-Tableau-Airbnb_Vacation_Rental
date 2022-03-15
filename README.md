@@ -29,5 +29,5 @@ From the data, we observed the following for the years 2021 and 2022.
 1. In Honolulu, people prefer to spend more time in the winter than in the summer and that tell us to prepare better for the flux of customers during winter season.
 2. Interestingly, we predicted that people who stay longer booked the the rooms earlier. The correlation between the two variables is more than 0.52
 
-## ** Figure. The Tableau Dashboard of the finding from the data **
+##  Figure. The Tableau Dashboard of the finding from the data 
 ![](Airbnb_Visualization.png) 
